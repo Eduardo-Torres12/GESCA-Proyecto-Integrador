@@ -34,7 +34,7 @@
     </nav>
 </header>
 
-<a href="carrito.html" class="cart-icon">
+<a href="carrito.php" class="cart-icon">
 
     <i class="fa-solid fa-cart-shopping"></i>
 

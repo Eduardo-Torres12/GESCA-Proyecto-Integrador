@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "nombre": "Termómetro Digital",
+        "precio": 250,
+        "imagen": "img/product1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Cubrebocas KN95",
+        "precio": 120,
+        "imagen": "img/product2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Gel Antibacterial",
+        "precio": 80,
+        "imagen": "img/product3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Oxímetro",
+        "precio": 450,
+        "imagen": "img/product4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Baumanómetro",
+        "precio": 950,
+        "imagen": "img/product5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Guantes Médicos",
+        "precio": 150,
+        "imagen": "img/product6.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Silla de Ruedas",
+        "precio": 3200,
+        "imagen": "img/product7.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Nebulizador",
+        "precio": 780,
+        "imagen": "img/product8.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Estetoscopio",
+        "precio": 650,
+        "imagen": "img/product9.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Vitaminas",
+        "precio": 190,
+        "imagen": "img/product10.jpg"
+    }
+    
+    ,
+{
+    "id": 11,
+    "nombre": "Monitor Cardíaco",
+    "precio": 5400,
+    "imagen": "img/product11.jpg"
+},
+{
+    "id": 12,
+    "nombre": "Camilla Médica",
+    "precio": 20000,
+    "imagen": "img/product12.jpg"
+},
+{
+    "id": 13,
+    "nombre": "Muletas",
+    "precio": 650,
+    "imagen": "img/product13.jpg"
+},
+{
+    "id": 14,
+    "nombre": "Jeringas",
+    "precio": 120,
+    "imagen": "img/product14.jpg"
+},
+{
+    "id": 15,
+    "nombre": "Botiquín",
+    "precio": 450,
+    "imagen": "img/product15.jpg"
+},
+{
+    "id": 16,
+    "nombre": "Bata Médica",
+    "precio": 390,
+    "imagen": "img/product16.jpg"
+},
+{
+    "id": 17,
+    "nombre": "Lentes de Protección",
+    "precio": 210,
+    "imagen": "img/product17.jpg"
+},
+{
+    "id": 18,
+    "nombre": "Prueba Covid",
+    "precio": 180,
+    "imagen": "img/product18.jpg"
+},
+{
+    "id": 19,
+    "nombre": "Tanque de Oxígeno",
+    "precio": 7600,
+    "imagen": "img/product19.jpg"
+},
+{
+    "id": 20,
+    "nombre": "Monitor de Glucosa",
+    "precio": 800,
+    "imagen": "img/product20.jpg"
+}
+]
